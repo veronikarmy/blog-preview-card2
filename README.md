@@ -1,5 +1,7 @@
 # Blog Preview Card Challenge
 
+Live demo: https://veronikarmy.github.io/blog-preview-card2/
+
 **Description**  
 A small Frontend Mentor challenge to build a responsive blog preview card component.
 
@@ -33,15 +35,6 @@ README.md     — project documentation
 - Centered content and consistent spacing  
 
 ---
-
-## How To Run
-
-1. Clone the repository:  
-   ```bash
-   git clone https://veronikarmy.github.io/blog-preview-card2/.git
-   cd blog-preview-card
-
-   Open index.html in any modern web browser.
 
 Author
 Veronika — frontend developer in training, honing HTML & CSS skills.
