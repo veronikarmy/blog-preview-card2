@@ -38,7 +38,7 @@ README.md     — project documentation
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/blog-preview-card2.git
+   git clone https://veronikarmy.github.io/blog-preview-card2/.git
    cd blog-preview-card
 
    Open index.html in any modern web browser.
